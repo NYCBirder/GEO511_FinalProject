@@ -5,7 +5,7 @@ date: today
 date-format: long
 ---
 
-# Introduction
+# Introduction  
 
  How has the overexploitation of the American Horseshoe Crab (Limulus polyphemus) for commercial and biomedical harvesting impacted their Delaware Bay spawning populations? One of the oldest extant species, horseshoe crabs play a vital role in bay shore ecosystems. The Red Knot, among many other migratory birds, relies primarily on horseshoe crab eggs to complete its journey North. Specifically, this shorebird makes its final “pit stop” in Delaware Bay, the largest aggregation of horseshoe crab nesting sites. Since overharvesting of crabs has led to severe population declines in the past century, I am interested in determining how recent legislation passed regarding harvesting restrictions has affected spawning populations, particularly in the Delaware Bay shore region. By modeling historical citizen science occurrence data alongside annual spawning survey data, I intend to visualize fluctuations in horseshoe crab nesting sites. While this study will not prove correlation, it may provide insight as to how crab populations have changed since the establishment of anti-over-harvesting legislature.
 
