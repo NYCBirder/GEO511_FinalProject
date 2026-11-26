@@ -107,6 +107,10 @@ print(gbif_trends) # View decadal trends per survey beach
 
 Insert and explain awesome map of citizen science occurrence data, survey nesting sites, and a table comparing the two.
 
+
+###Look to see if there is any correlation with another factor regarding the landscape type and/or geography. Like, maybe horseshoe crab numbers increase more in areas away from population centers?
+
+
 ```{r}
 # Plot of historical occurrence data over all 28 beaches
 historical_plot <- ggplot(gbif_trends, aes(x = Decade, y = Observation_Count, group = Beach_Name, color = State)) +
@@ -129,7 +133,7 @@ ggsave("historical_occurrence.png", plot = historical_plot, width = 12, height =
 #'
 historical_plot
 ```
-
+###Maybe make an "average" plot combining all 28 beaches to show a summary of what happened?
 # Conclusions
 
 Insert awesome conclusion about my findings and how they relate to the problem. Provide limitations and specify how I could go further.
